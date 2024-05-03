@@ -16,8 +16,8 @@ The script displays the elapsed time of the recording while it's in progress.
 - **File Saving**: Saves recorded audio as WAV files with incrementing filenames (recordingN.wav).
 
 ## Usage
-1. **Clone Repository**: Clone the repository to your local machine.
-2. **Install Dependencies**: Install required libraries using pip install -r requirements.txt.
-3. **Run Script**: Execute the script using python voice_recorder.py.
-4. **Start Recording**: Click the microphone button to begin recording.
-5. **Stop Recording**: Click the microphone button again to stop recording.
+1. Clone the repository to your local machine.
+2. Install required libraries using pip install -r requirements.txt.
+3. Execute the script using python voice_recorder.py.
+4. Click the microphone button to begin recording.
+5. Click the microphone button again to stop recording.
